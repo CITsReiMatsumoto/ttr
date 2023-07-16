@@ -44,7 +44,7 @@ body {
   height: 60px;
   font-size: 16pt;
 }
-.clear {
+.clear {//初期化
   font-size: 14pt;
   width: 160px;
   height: 30px;
